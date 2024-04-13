@@ -268,5 +268,16 @@ hr {
   margin-right: 20px;
 }
 
+footer {
+  height: 60px;
+  width: 100%;
+  background-color: #EC715F;
+}
 
+footer p {
+  text-align: center;
+  color: #FAFAFA;
+  font-size: 16px;
+  line-height: 60px;
+}
 
